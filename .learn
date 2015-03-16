@@ -1,0 +1,10 @@
+languages:
+  - ruby
+  - bash
+tags:
+  - git
+  - basics
+  - version control
+  - methods
+type:
+  - teacher guide
