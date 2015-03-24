@@ -3,6 +3,8 @@ language: ruby, bash
 tags: git, basics, version control, methods
 type: teacher guide
 ---
+## Unit 2: Git and GitHub
+
 ### SWBATs
 + Understand the purpose of GitHub and learn how to fork and clone repositories.
 
