@@ -38,6 +38,8 @@ type: teacher guide
 ### Hints and Hurdles
 + Visuals can be very helpful in explaining forking and cloning. Draw the workflow on the board:
 <br> <img src="https://after-school-assets.s3.amazonaws.com/github_workflow.jpg" width="400px">
++ Version control explanation using video game analogy works well.
++ I do/you do/we do to break up Git lecture.
  
 ### Additional Media
 + [Trending GitHub repositories](https://github.com/trending?l=ruby) - Find what Ruby repositories the GitHub community is most excited about today.
