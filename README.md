@@ -37,7 +37,7 @@ type: teacher guide
 
 ### Hints and Hurdles
 + Visuals can be very helpful in explaining forking and cloning. Draw the workflow on the board:
-<img src="https://after-school-assets.s3.amazonaws.com/github_workflow.jpg" width="400px">
+<br> <img src="https://after-school-assets.s3.amazonaws.com/github_workflow.jpg" width="400px">
  
 ### Additional Media
 + [Trending GitHub repositories](https://github.com/trending?l=ruby) - Find what Ruby repositories the GitHub community is most excited about today.
