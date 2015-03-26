@@ -13,7 +13,7 @@ type: teacher guide
 
 ### Lesson Plan
 + Students follow Git Environment Setup instructions
-  + Ironboard Week 2 > Git and GitHub > Setup: Git Environment
+  + Learn Week 2 > Git and GitHub > Setup: Git Environment
 + Navigate to Week 2 > Git and GitHub > Study Guide 
   + We’ll use this to get code from GitHub and bring it down to our computers.
 + Click “Fork this lab” link to open GitHub repository.
