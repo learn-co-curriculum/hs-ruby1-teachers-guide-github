@@ -1,8 +1,4 @@
----
-language: ruby, bash
-tags: git, basics, version control, methods
-type: teacher guide
----
+
 ## Unit 2: Git and GitHub
 
 ### SWBATs
