@@ -42,3 +42,5 @@
 
 ### Off Screen Fun
 + Take breaks for games and team building. Here are a bunch of [games we love](https://docs.google.com/a/flatironschool.com/document/d/1SWyV9LjCEnV89Zbly-Zfgoy7ZiofSWoo3QGfwvJDc64/).
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-github' data-visibility='hidden'>View this lesson on Learn.co</a>
